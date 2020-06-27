@@ -3,8 +3,8 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-06-18T21:39:59-04:00",
-  "id": "fullstack_dev_environment",
+  "updated": "2020-06-19T20:02:05-04:00",
+  "id": "codelab1_setup",
   "duration": 1,
   "title": "GDG Lawrence Full Stack Development Environment Setup Codelab",
   "authors": "Kevin Quan",
@@ -20,5 +20,5 @@
   "tags": [
     "beginner"
   ],
-  "url": "fullstack_dev_environment"
+  "url": "codelab1_setup"
 }
